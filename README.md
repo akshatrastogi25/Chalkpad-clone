@@ -12,6 +12,7 @@
 ![Screen Shot 2020-09-17 at 12 34 00 AM](https://user-images.githubusercontent.com/42384464/93380928-8db0dc00-f87d-11ea-9754-623fc1b8574d.png)
 
 ### Logout Page
+![Screen Shot 2020-09-19 at 12 56 27 AM](https://user-images.githubusercontent.com/42384464/93637379-23ca3b00-fa13-11ea-998c-f60a70b7e749.png)
 
 
 This is a Clone of Chitkara University Chalkpad-GUI.
